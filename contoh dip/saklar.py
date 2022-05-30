@@ -9,8 +9,8 @@ class saklar:
     def berubah(self):
         if self.__keaktifan:
             self.__item.berhenti()
-            self.__keaktifan = False
+            self.__keaktiffan = False
         else:
             self.__item.beroprasi()
             self.__keaktifan = True
-            
+
