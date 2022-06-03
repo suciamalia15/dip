@@ -1,4 +1,4 @@
-from seklar import Saklar
+from saklar import Saklar
 from kipas_angin import KipasAngin
 from lampu import Lampu
 
